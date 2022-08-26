@@ -1,0 +1,8 @@
+{
+  "name": "hackathon-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/k0136000/gyeonggiHackathon-backend.git",
+  "author": "kim  min gyu",
+  "license": "MIT"
+}
